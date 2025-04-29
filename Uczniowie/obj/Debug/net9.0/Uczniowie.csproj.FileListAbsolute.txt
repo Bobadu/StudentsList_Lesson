@@ -1,0 +1,14 @@
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\bin\Debug\net9.0\Uczniowie.exe
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\bin\Debug\net9.0\Uczniowie.deps.json
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\bin\Debug\net9.0\Uczniowie.runtimeconfig.json
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\bin\Debug\net9.0\Uczniowie.dll
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\bin\Debug\net9.0\Uczniowie.pdb
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.AssemblyInfoInputs.cache
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.AssemblyInfo.cs
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.dll
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\refint\Uczniowie.dll
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.pdb
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\Uczniowie.genruntimeconfig.cache
+C:\Users\Uczen\RiderProjects\Uczniowie\Uczniowie\obj\Debug\net9.0\ref\Uczniowie.dll
