@@ -69,8 +69,7 @@ class Program
         ZapiszUczniowDoPliku(uczniowie);
 
         WyswietlUczniow(uczniowie);
-
-        // Filtrowanie uczniów powyżej określonego wieku
+        
         Console.Write("\nPokaż uczniów powyżej wieku (podaj wiek): ");
         if (int.TryParse(Console.ReadLine(), out int progWieku))
         {
